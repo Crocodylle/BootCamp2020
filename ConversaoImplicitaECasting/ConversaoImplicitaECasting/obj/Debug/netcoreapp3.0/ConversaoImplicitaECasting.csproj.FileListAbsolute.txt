@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaECasting.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaECasting.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaECasting.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaECasting.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaECasting.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaECasting.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaECasting.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\netcoreapp3.0\ConversaoImplicitaECasting.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaECasting.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\netcoreapp3.0\ConversaoImplicitaECasting.pdb

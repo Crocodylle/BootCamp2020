@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.0\EntradaDeDados2.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.0\EntradaDeDados2.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.0\EntradaDeDados2.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.0\EntradaDeDados2.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.0\EntradaDeDados2.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\bin\Debug\netcoreapp3.0\EntradaDeDados2.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.0\EntradaDeDados2.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.0\EntradaDeDados2.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.0\EntradaDeDados2.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDados2\EntradaDeDados2\obj\Debug\netcoreapp3.0\EntradaDeDados2.pdb

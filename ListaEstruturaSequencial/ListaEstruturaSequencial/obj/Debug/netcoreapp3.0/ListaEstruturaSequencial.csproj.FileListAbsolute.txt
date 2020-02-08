@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\bin\Debug\netcoreapp3.0\ListaEstruturaSequencial.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\bin\Debug\netcoreapp3.0\ListaEstruturaSequencial.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\bin\Debug\netcoreapp3.0\ListaEstruturaSequencial.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\bin\Debug\netcoreapp3.0\ListaEstruturaSequencial.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\bin\Debug\netcoreapp3.0\ListaEstruturaSequencial.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\bin\Debug\netcoreapp3.0\ListaEstruturaSequencial.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\obj\Debug\netcoreapp3.0\ListaEstruturaSequencial.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\obj\Debug\netcoreapp3.0\ListaEstruturaSequencial.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\obj\Debug\netcoreapp3.0\ListaEstruturaSequencial.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\obj\Debug\netcoreapp3.0\ListaEstruturaSequencial.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturaSequencial\ListaEstruturaSequencial\obj\Debug\netcoreapp3.0\ListaEstruturaSequencial.pdb

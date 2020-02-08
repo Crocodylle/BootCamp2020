@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\bin\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\bin\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\bin\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\bin\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\bin\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\bin\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\obj\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\obj\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\obj\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\obj\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\TIposReferenciaseTiposValores\TIposReferenciaseTiposValores\obj\Debug\netcoreapp3.0\TIposReferenciaseTiposValores.pdb

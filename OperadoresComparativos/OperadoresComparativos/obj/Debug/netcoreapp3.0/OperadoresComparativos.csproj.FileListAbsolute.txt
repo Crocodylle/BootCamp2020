@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\bin\Debug\netcoreapp3.0\OperadoresComparativos.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresComparativos\OperadoresComparativos\obj\Debug\netcoreapp3.0\OperadoresComparativos.pdb

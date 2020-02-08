@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.0\ModificadoresDeParametros.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.0\ModificadoresDeParametros.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.0\ModificadoresDeParametros.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.0\ModificadoresDeParametros.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.0\ModificadoresDeParametros.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\bin\Debug\netcoreapp3.0\ModificadoresDeParametros.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.0\ModificadoresDeParametros.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.0\ModificadoresDeParametros.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.0\ModificadoresDeParametros.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.0\ModificadoresDeParametros.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresDeParametros\ModificadoresDeParametros\obj\Debug\netcoreapp3.0\ModificadoresDeParametros.pdb

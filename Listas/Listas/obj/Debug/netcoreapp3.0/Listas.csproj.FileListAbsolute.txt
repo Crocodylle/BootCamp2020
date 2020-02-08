@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\obj\Debug\netcoreapp3.0\Listas.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\obj\Debug\netcoreapp3.0\Listas.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\bin\Debug\netcoreapp3.0\Listas.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\bin\Debug\netcoreapp3.0\Listas.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\bin\Debug\netcoreapp3.0\Listas.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\bin\Debug\netcoreapp3.0\Listas.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\bin\Debug\netcoreapp3.0\Listas.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\bin\Debug\netcoreapp3.0\Listas.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\obj\Debug\netcoreapp3.0\Listas.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Listas\Listas\obj\Debug\netcoreapp3.0\Listas.pdb

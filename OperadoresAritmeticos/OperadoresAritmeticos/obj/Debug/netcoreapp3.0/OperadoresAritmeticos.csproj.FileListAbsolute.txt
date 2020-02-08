@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.0\OperadoresAritmeticos.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.0\OperadoresAritmeticos.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.0\OperadoresAritmeticos.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.0\OperadoresAritmeticos.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.0\OperadoresAritmeticos.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\bin\Debug\netcoreapp3.0\OperadoresAritmeticos.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.0\OperadoresAritmeticos.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.0\OperadoresAritmeticos.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresAritmeticos\OperadoresAritmeticos\obj\Debug\netcoreapp3.0\OperadoresAritmeticos.pdb

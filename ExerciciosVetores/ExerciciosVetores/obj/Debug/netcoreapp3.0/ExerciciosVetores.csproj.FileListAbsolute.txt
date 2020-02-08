@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\obj\Debug\netcoreapp3.0\ExerciciosVetores.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\obj\Debug\netcoreapp3.0\ExerciciosVetores.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\obj\Debug\netcoreapp3.0\ExerciciosVetores.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\bin\Debug\netcoreapp3.0\ExerciciosVetores.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\bin\Debug\netcoreapp3.0\ExerciciosVetores.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\bin\Debug\netcoreapp3.0\ExerciciosVetores.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\bin\Debug\netcoreapp3.0\ExerciciosVetores.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\bin\Debug\netcoreapp3.0\ExerciciosVetores.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\bin\Debug\netcoreapp3.0\ExerciciosVetores.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\obj\Debug\netcoreapp3.0\ExerciciosVetores.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosVetores\ExerciciosVetores\obj\Debug\netcoreapp3.0\ExerciciosVetores.pdb

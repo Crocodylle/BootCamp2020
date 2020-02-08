@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\bin\Debug\netcoreapp3.0\Course.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\bin\Debug\netcoreapp3.0\Course.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\bin\Debug\netcoreapp3.0\Course.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\bin\Debug\netcoreapp3.0\Course.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\bin\Debug\netcoreapp3.0\Course.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\bin\Debug\netcoreapp3.0\Course.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\obj\Debug\netcoreapp3.0\Course.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\obj\Debug\netcoreapp3.0\Course.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\obj\Debug\netcoreapp3.0\Course.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Course\Course\obj\Debug\netcoreapp3.0\Course.pdb

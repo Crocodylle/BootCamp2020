@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\obj\Debug\netcoreapp3.0\SwtichCase.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\obj\Debug\netcoreapp3.0\SwtichCase.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\bin\Debug\netcoreapp3.0\SwtichCase.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\bin\Debug\netcoreapp3.0\SwtichCase.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\bin\Debug\netcoreapp3.0\SwtichCase.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\bin\Debug\netcoreapp3.0\SwtichCase.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\bin\Debug\netcoreapp3.0\SwtichCase.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\bin\Debug\netcoreapp3.0\SwtichCase.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\obj\Debug\netcoreapp3.0\SwtichCase.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\SwtichCase\SwtichCase\obj\Debug\netcoreapp3.0\SwtichCase.pdb

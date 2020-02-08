@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.0\OperadoresDeAtribuicao.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.0\OperadoresDeAtribuicao.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.0\OperadoresDeAtribuicao.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.0\OperadoresDeAtribuicao.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.0\OperadoresDeAtribuicao.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\bin\Debug\netcoreapp3.0\OperadoresDeAtribuicao.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.0\OperadoresDeAtribuicao.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.0\OperadoresDeAtribuicao.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.0\OperadoresDeAtribuicao.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperadoresDeAtribuicao\OperadoresDeAtribuicao\obj\Debug\netcoreapp3.0\OperadoresDeAtribuicao.pdb

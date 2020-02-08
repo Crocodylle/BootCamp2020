@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\obj\Debug\netcoreapp3.0\ModificadoresRef.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\obj\Debug\netcoreapp3.0\ModificadoresRef.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\bin\Debug\netcoreapp3.0\ModificadoresRef.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\bin\Debug\netcoreapp3.0\ModificadoresRef.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\bin\Debug\netcoreapp3.0\ModificadoresRef.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\bin\Debug\netcoreapp3.0\ModificadoresRef.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\bin\Debug\netcoreapp3.0\ModificadoresRef.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\bin\Debug\netcoreapp3.0\ModificadoresRef.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\obj\Debug\netcoreapp3.0\ModificadoresRef.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ModificadoresRef\ModificadoresRef\obj\Debug\netcoreapp3.0\ModificadoresRef.pdb

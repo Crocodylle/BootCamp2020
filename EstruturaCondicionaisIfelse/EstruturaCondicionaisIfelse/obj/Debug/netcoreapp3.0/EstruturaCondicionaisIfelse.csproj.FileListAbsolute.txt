@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\bin\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\bin\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\bin\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\bin\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\bin\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\bin\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\obj\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\obj\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\obj\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaCondicionaisIfelse\EstruturaCondicionaisIfelse\obj\Debug\netcoreapp3.0\EstruturaCondicionaisIfelse.pdb

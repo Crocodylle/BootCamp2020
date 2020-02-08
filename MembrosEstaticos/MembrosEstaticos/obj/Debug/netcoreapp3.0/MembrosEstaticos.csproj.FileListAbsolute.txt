@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.0\MembrosEstaticos.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.0\MembrosEstaticos.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.0\MembrosEstaticos.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.0\MembrosEstaticos.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.0\MembrosEstaticos.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.0\MembrosEstaticos.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.0\MembrosEstaticos.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.0\MembrosEstaticos.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.0\MembrosEstaticos.pdb

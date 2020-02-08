@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\bin\Debug\netcoreapp3.0\DateTimeKind.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\bin\Debug\netcoreapp3.0\DateTimeKind.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\bin\Debug\netcoreapp3.0\DateTimeKind.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\bin\Debug\netcoreapp3.0\DateTimeKind.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\bin\Debug\netcoreapp3.0\DateTimeKind.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\bin\Debug\netcoreapp3.0\DateTimeKind.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.0\DateTimeKind.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.0\DateTimeKind.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.0\DateTimeKind.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\DateTimeKind\DateTimeKind\obj\Debug\netcoreapp3.0\DateTimeKind.pdb

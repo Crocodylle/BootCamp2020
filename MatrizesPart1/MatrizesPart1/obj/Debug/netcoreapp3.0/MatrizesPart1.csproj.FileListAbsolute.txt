@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\bin\Debug\netcoreapp3.0\MatrizesPart1.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\bin\Debug\netcoreapp3.0\MatrizesPart1.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\bin\Debug\netcoreapp3.0\MatrizesPart1.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\bin\Debug\netcoreapp3.0\MatrizesPart1.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\bin\Debug\netcoreapp3.0\MatrizesPart1.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\bin\Debug\netcoreapp3.0\MatrizesPart1.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\obj\Debug\netcoreapp3.0\MatrizesPart1.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\obj\Debug\netcoreapp3.0\MatrizesPart1.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\obj\Debug\netcoreapp3.0\MatrizesPart1.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\MatrizesPart1\MatrizesPart1\obj\Debug\netcoreapp3.0\MatrizesPart1.pdb

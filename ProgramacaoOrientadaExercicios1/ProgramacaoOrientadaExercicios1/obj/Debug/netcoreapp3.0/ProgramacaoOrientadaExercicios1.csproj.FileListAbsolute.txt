@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\obj\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\obj\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\bin\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\bin\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\bin\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\bin\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\bin\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\bin\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\obj\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ProgramacaoOrientadaExercicios1\ProgramacaoOrientadaExercicios1\obj\Debug\netcoreapp3.0\ProgramacaoOrientadaExercicios1.pdb

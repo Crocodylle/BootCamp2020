@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.0\EstruturaWhile.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.0\EstruturaWhile.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.0\EstruturaWhile.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.0\EstruturaWhile.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.0\EstruturaWhile.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\bin\Debug\netcoreapp3.0\EstruturaWhile.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.0\EstruturaWhile.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.0\EstruturaWhile.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.0\EstruturaWhile.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaWhile\EstruturaWhile\obj\Debug\netcoreapp3.0\EstruturaWhile.pdb

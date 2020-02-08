@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\bin\Debug\netcoreapp3.0\Encapsulamento.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Encapsulamento\Encapsulamento\obj\Debug\netcoreapp3.0\Encapsulamento.pdb

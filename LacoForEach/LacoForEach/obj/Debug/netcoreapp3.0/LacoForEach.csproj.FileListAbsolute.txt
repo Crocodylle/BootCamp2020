@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.0\LacoForEach.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.0\LacoForEach.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.0\LacoForEach.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.0\LacoForEach.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.0\LacoForEach.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\bin\Debug\netcoreapp3.0\LacoForEach.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.0\LacoForEach.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.0\LacoForEach.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.0\LacoForEach.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\LacoForEach\LacoForEach\obj\Debug\netcoreapp3.0\LacoForEach.pdb

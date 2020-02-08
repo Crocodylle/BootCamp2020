@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.0\ExercicioFixacao1.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.0\ExercicioFixacao1.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.0\ExercicioFixacao1.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.0\ExercicioFixacao1.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.0\ExercicioFixacao1.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.0\ExercicioFixacao1.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.0\ExercicioFixacao1.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.0\ExercicioFixacao1.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.0\ExercicioFixacao1.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.0\ExercicioFixacao1.pdb

@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\netcoreapp3.0\ExerciciosMatrizes.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\netcoreapp3.0\ExerciciosMatrizes.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\netcoreapp3.0\ExerciciosMatrizes.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\netcoreapp3.0\ExerciciosMatrizes.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\netcoreapp3.0\ExerciciosMatrizes.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\netcoreapp3.0\ExerciciosMatrizes.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\netcoreapp3.0\ExerciciosMatrizes.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\bin\Debug\netcoreapp3.0\ExerciciosMatrizes.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\netcoreapp3.0\ExerciciosMatrizes.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\netcoreapp3.0\ExerciciosMatrizes.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ExerciciosMatrizes\ExerciciosMatrizes\obj\Debug\netcoreapp3.0\ExerciciosMatrizes.csprojAssemblyReference.cache

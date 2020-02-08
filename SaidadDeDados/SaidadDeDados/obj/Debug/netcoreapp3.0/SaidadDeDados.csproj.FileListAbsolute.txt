@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\bin\Debug\netcoreapp3.0\SaidadDeDados.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\bin\Debug\netcoreapp3.0\SaidadDeDados.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\bin\Debug\netcoreapp3.0\SaidadDeDados.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\bin\Debug\netcoreapp3.0\SaidadDeDados.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\bin\Debug\netcoreapp3.0\SaidadDeDados.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\bin\Debug\netcoreapp3.0\SaidadDeDados.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\obj\Debug\netcoreapp3.0\SaidadDeDados.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\obj\Debug\netcoreapp3.0\SaidadDeDados.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\obj\Debug\netcoreapp3.0\SaidadDeDados.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\obj\Debug\netcoreapp3.0\SaidadDeDados.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\SaidadDeDados\SaidadDeDados\obj\Debug\netcoreapp3.0\SaidadDeDados.pdb

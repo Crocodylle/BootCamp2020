@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\netcoreapp3.0\PrimeiroProjeto.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\netcoreapp3.0\PrimeiroProjeto.pdb

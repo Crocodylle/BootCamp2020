@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.0\OperacoesDateTime.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.0\OperacoesDateTime.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.0\OperacoesDateTime.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.0\OperacoesDateTime.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.0\OperacoesDateTime.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\bin\Debug\netcoreapp3.0\OperacoesDateTime.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.0\OperacoesDateTime.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.0\OperacoesDateTime.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.0\OperacoesDateTime.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\OperacoesDateTime\OperacoesDateTime\obj\Debug\netcoreapp3.0\OperacoesDateTime.pdb

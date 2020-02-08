@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\obj\Debug\netcoreapp3.0\Testeslista.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\obj\Debug\netcoreapp3.0\Testeslista.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\obj\Debug\netcoreapp3.0\Testeslista.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\bin\Debug\netcoreapp3.0\Testeslista.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\bin\Debug\netcoreapp3.0\Testeslista.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\bin\Debug\netcoreapp3.0\Testeslista.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\bin\Debug\netcoreapp3.0\Testeslista.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\bin\Debug\netcoreapp3.0\Testeslista.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\bin\Debug\netcoreapp3.0\Testeslista.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\obj\Debug\netcoreapp3.0\Testeslista.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Testeslista\Testeslista\obj\Debug\netcoreapp3.0\Testeslista.pdb

@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\obj\Debug\netcoreapp3.0\Exerciciosista.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\obj\Debug\netcoreapp3.0\Exerciciosista.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\obj\Debug\netcoreapp3.0\Exerciciosista.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\bin\Debug\netcoreapp3.0\Exerciciosista.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\bin\Debug\netcoreapp3.0\Exerciciosista.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\bin\Debug\netcoreapp3.0\Exerciciosista.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\bin\Debug\netcoreapp3.0\Exerciciosista.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\bin\Debug\netcoreapp3.0\Exerciciosista.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\bin\Debug\netcoreapp3.0\Exerciciosista.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\obj\Debug\netcoreapp3.0\Exerciciosista.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Exerciciosista\Exerciciosista\obj\Debug\netcoreapp3.0\Exerciciosista.pdb

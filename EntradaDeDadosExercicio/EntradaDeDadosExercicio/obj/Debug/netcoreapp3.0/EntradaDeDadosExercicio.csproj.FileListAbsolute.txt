@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\bin\Debug\netcoreapp3.0\EntradaDeDadosExercicio.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\bin\Debug\netcoreapp3.0\EntradaDeDadosExercicio.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\bin\Debug\netcoreapp3.0\EntradaDeDadosExercicio.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\bin\Debug\netcoreapp3.0\EntradaDeDadosExercicio.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\bin\Debug\netcoreapp3.0\EntradaDeDadosExercicio.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\bin\Debug\netcoreapp3.0\EntradaDeDadosExercicio.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\obj\Debug\netcoreapp3.0\EntradaDeDadosExercicio.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\obj\Debug\netcoreapp3.0\EntradaDeDadosExercicio.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\obj\Debug\netcoreapp3.0\EntradaDeDadosExercicio.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\obj\Debug\netcoreapp3.0\EntradaDeDadosExercicio.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EntradaDeDadosExercicio\EntradaDeDadosExercicio\obj\Debug\netcoreapp3.0\EntradaDeDadosExercicio.pdb

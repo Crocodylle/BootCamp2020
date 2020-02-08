@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\obj\Debug\netcoreapp3.0\V etorParte2.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\obj\Debug\netcoreapp3.0\V etorParte2.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\bin\Debug\netcoreapp3.0\V etorParte2.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\bin\Debug\netcoreapp3.0\V etorParte2.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\bin\Debug\netcoreapp3.0\V etorParte2.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\bin\Debug\netcoreapp3.0\V etorParte2.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\bin\Debug\netcoreapp3.0\V etorParte2.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\bin\Debug\netcoreapp3.0\V etorParte2.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\obj\Debug\netcoreapp3.0\V etorParte2.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\V etorParte2\V etorParte2\obj\Debug\netcoreapp3.0\V etorParte2.pdb

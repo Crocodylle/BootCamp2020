@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\bin\Debug\netcoreapp3.0\EnrtadaDedados.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\bin\Debug\netcoreapp3.0\EnrtadaDedados.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\bin\Debug\netcoreapp3.0\EnrtadaDedados.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\bin\Debug\netcoreapp3.0\EnrtadaDedados.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\bin\Debug\netcoreapp3.0\EnrtadaDedados.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\bin\Debug\netcoreapp3.0\EnrtadaDedados.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\obj\Debug\netcoreapp3.0\EnrtadaDedados.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\obj\Debug\netcoreapp3.0\EnrtadaDedados.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\obj\Debug\netcoreapp3.0\EnrtadaDedados.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\obj\Debug\netcoreapp3.0\EnrtadaDedados.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\EnrtadaDedados\EnrtadaDedados\obj\Debug\netcoreapp3.0\EnrtadaDedados.csprojAssemblyReference.cache

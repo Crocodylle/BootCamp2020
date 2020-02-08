@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.0\ExercicioConstrutores.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.0\ExercicioConstrutores.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.0\ExercicioConstrutores.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.0\ExercicioConstrutores.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.0\ExercicioConstrutores.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\bin\Debug\netcoreapp3.0\ExercicioConstrutores.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.0\ExercicioConstrutores.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.0\ExercicioConstrutores.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.0\ExercicioConstrutores.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.0\ExercicioConstrutores.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ExercicioConstrutores\ExercicioConstrutores\obj\Debug\netcoreapp3.0\ExercicioConstrutores.pdb

@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\obj\Debug\netcoreapp3.0\ProblemaSemOrientacao.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\obj\Debug\netcoreapp3.0\ProblemaSemOrientacao.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\obj\Debug\netcoreapp3.0\ProblemaSemOrientacao.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\bin\Debug\netcoreapp3.0\ProblemaSemOrientacao.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\bin\Debug\netcoreapp3.0\ProblemaSemOrientacao.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\bin\Debug\netcoreapp3.0\ProblemaSemOrientacao.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\bin\Debug\netcoreapp3.0\ProblemaSemOrientacao.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\bin\Debug\netcoreapp3.0\ProblemaSemOrientacao.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\bin\Debug\netcoreapp3.0\ProblemaSemOrientacao.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\obj\Debug\netcoreapp3.0\ProblemaSemOrientacao.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ProblemaSemOrientacao\ProblemaSemOrientacao\obj\Debug\netcoreapp3.0\ProblemaSemOrientacao.pdb

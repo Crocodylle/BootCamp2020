@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\bin\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\bin\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\bin\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\bin\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\bin\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\bin\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\obj\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\obj\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\obj\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\obj\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\ListaEstruturadeDadosIfElse\ListaEstruturadeDadosIfElse\obj\Debug\netcoreapp3.0\ListaEstruturadeDadosIfElse.pdb

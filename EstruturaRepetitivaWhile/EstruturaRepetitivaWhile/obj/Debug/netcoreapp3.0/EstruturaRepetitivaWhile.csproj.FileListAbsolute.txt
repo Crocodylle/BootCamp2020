@@ -1,0 +1,10 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\bin\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\EstruturaRepetitivaWhile\EstruturaRepetitivaWhile\obj\Debug\netcoreapp3.0\EstruturaRepetitivaWhile.pdb

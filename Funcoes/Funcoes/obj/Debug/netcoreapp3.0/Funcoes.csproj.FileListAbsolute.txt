@@ -1,0 +1,11 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\obj\Debug\netcoreapp3.0\Funcoes.csprojAssemblyReference.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\obj\Debug\netcoreapp3.0\Funcoes.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\obj\Debug\netcoreapp3.0\Funcoes.AssemblyInfo.cs
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\bin\Debug\netcoreapp3.0\Funcoes.exe
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\bin\Debug\netcoreapp3.0\Funcoes.deps.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\bin\Debug\netcoreapp3.0\Funcoes.runtimeconfig.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\bin\Debug\netcoreapp3.0\Funcoes.runtimeconfig.dev.json
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\bin\Debug\netcoreapp3.0\Funcoes.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\bin\Debug\netcoreapp3.0\Funcoes.pdb
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\obj\Debug\netcoreapp3.0\Funcoes.dll
+C:\Projetos\C# Completo 2019\BootCamp2020\Funcoes\Funcoes\obj\Debug\netcoreapp3.0\Funcoes.pdb

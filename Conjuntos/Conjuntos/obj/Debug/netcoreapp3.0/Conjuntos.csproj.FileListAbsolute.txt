@@ -1,0 +1,2 @@
+C:\Projetos\C# Completo 2019\BootCamp2020\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.0\Conjuntos.AssemblyInfoInputs.cache
+C:\Projetos\C# Completo 2019\BootCamp2020\Conjuntos\Conjuntos\obj\Debug\netcoreapp3.0\Conjuntos.AssemblyInfo.cs
